@@ -1,0 +1,5 @@
+package coinGrabber
+
+class Board {
+
+}
